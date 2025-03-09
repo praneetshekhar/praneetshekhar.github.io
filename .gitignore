@@ -173,5 +173,5 @@ cython_debug/
 data/
 i18n/
 resources/
-#go.mod
-#go.sum
+go.mod
+go.sum
