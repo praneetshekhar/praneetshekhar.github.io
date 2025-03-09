@@ -1,0 +1,3 @@
+[submodule "outofbounds/themes/PaperMod"]
+	path = outofbounds/themes/PaperMod
+	url = git@github.com:adityatelange/hugo-PaperMod.git
