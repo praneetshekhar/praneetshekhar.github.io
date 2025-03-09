@@ -4,25 +4,24 @@ date = 2016-11-17T19:52:10+05:30
 draft = true
 +++
 
-The 2016 edition of COFAS, the biennial international computer olympiad organised by City Montessori School, Lucknow was held in the month of November.    
-Our school has a rich history in this quiz, with our seniors winning several editions.  
-So the pressure was immense, especially coming up against the reigning National Champions, [Adnan Azmat](https://www.linkedin.com/in/adnan-azmat-496000153/) & [Shadan Kalam](https://www.linkedin.com/in/shadankalam/), two incredibly knowledgeable and exceptional quizzers.  
+The 2016 edition of COFAS, the biennial international computer olympiad organised by City Montessori School, Lucknow was held in the month of November.  
 
-Against all odds, [Anubhav Kumar Singh](https://www.linkedin.com/in/anubhavkumar11/) & I were able to give some great answers to win the quiz.  
-Cracking the answer of tempered glass from obscure hints on the penultimate question is still fresh in my memory.  
-![On the buzzer!](/images/TCSBuzzer.jpeg?width=400px)  
+There were teams from several countries participating in a pleathora of competitions.  
+Five of us represented Loyola School Jamshedpur in various events.  
 
-It was a dream that came true, a target achieved, a culimination of 3 years of hardwork & heartbreak. 
-We won some nice stuff, like iPad Airs and more importantly a place in the national finals in Mumbai.  
+I was part of the Computer Quiz and the Game Design Challenge.  
 
-The national finals was held on the 16th of December at Taj Lands End, Mumbai where we were fortunate to be hosted by the Tatas and experience unmatched hospitality.  
-![At Land's End.](/images/TCS2.jpeg?width=400px)  
-As fate would have it, however, we were unable to achieve the same heights as our seniors before us and our fellow competitors from Jamshedpur, Adnan & Shadan.  
-We faltered on a question about the headquarters of NSA which we incorrectly identified as WikiLeaks HQ, having discussed NSA all along. The question was answered by the eventual winners from Delhi, the Dhar brothers. 
-This one question turned out to be the difference between 1st and 4th place.  
+[Anubhav Kumar Singh](https://www.linkedin.com/in/anubhavkumar11/) and I won the quiz in a dominating fashion.  
 
-Ifs and buts aside, we were lucky to be a part of the amazing event and experience the Tata's world-famous hospitality first hand for one more night.  
+We stood 2nd in the Game Design Challenge where we created a gamified science learning platform.  
 
-The highlight of the whole journey was undoubtedly meeting Mr. Natarajan Chandrasekaran, the then CEO of TCS and soon to be the chairman of Tata Sons.   
-![With Mr. N.Chandrasekharan](/images/TCS1.jpeg?width=680px)
+Most of the good work for designing the game was done by my genius friend [Aakash Pahwa](https://www.linkedin.com/in/aakash10399/).  
 
+Here, from the right,  
+Aakash Pahwa, [Kevin Matthew](https://www.linkedin.com/in/kevinmathewt/), Anubhav Kumar Singh, Mahendra Kumar Verma (A teacher from Loyola who accompanied us and supported us throughout, a thorough gentleman) and me.
+
+![Happy Days! COFAS 2016](/images/COFAS1.jpeg?width=400px)  
+
+Pic courtesy: [Abhijit Bhaduriya](https://www.linkedin.com/in/abhijit-bhaduriya/), our dear friend who kept us entertained throughout and still does.  
+
+A trip and experience that has stayed with us in our fond memories.  
