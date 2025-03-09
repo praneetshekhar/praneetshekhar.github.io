@@ -1,7 +1,7 @@
 +++
 title = 'Building This Site'
 date = 2023-09-24T02:27:36+05:30
-draft = true
+draft = false
 +++
 
 This is a supposed to be simple site, a simple presence for me on the web.  

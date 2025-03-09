@@ -1,7 +1,7 @@
 +++
 title = 'COFAS 2016' 
 date = 2016-11-17T19:52:10+05:30
-draft = true
+draft = false
 +++
 
 The 2016 edition of COFAS, the biennial international computer olympiad organised by City Montessori School, Lucknow was held in the month of November.  

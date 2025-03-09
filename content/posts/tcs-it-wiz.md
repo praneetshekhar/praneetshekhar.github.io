@@ -1,7 +1,7 @@
 +++
 title = 'TCS IT Wiz 2016' 
 date = 2016-12-17T19:52:10+05:30
-draft = true
+draft = false
 +++
 
 The Kolkata edition of TCS IT Wiz 2016 was held on the 31st of August.  
@@ -22,7 +22,7 @@ As fate would have it, however, we were unable to achieve the same heights as ou
 We faltered on a question about the headquarters of NSA which we incorrectly identified as WikiLeaks HQ, having discussed NSA all along. The question was answered by the eventual winners from Delhi, the Dhar brothers. 
 This one question turned out to be the difference between 1st and 4th place.  
 
-Ifs and buts aside, we were lucky to be a part of the amazing event and experience the Tata's world-famous hospitality first hand for one more night.  
+Ifs and buts aside, we were fortunate to be a part of the amazing event and have an incredible experience.  
 
 The highlight of the whole journey was undoubtedly meeting Mr. Natarajan Chandrasekaran, the then CEO of TCS and soon to be the chairman of Tata Sons.   
 ![With Mr. N.Chandrasekharan](/images/TCS1.jpeg?width=680px)

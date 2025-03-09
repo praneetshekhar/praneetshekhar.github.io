@@ -1,8 +1,11 @@
 baseURL = 'https://praneetshekhar.github.io/'
 languageCode = 'en-in'
-title = 'OutOfBounds'
+title = 'OutOfBounds | Praneet Shekhar'
 theme = 'hugo-PaperMod'
 enableEmoji = true
+
+[params.label]
+text = 'OutOfBounds'
 
 [params.homeInfoParams]
 Title = "Hi there :waving_hand:"
