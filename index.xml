@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OutOfBounds</title>
+    <link>https://praneetshekhar.github.io/</link>
+    <description>Recent content on OutOfBounds</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-in</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://praneetshekhar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://praneetshekhar.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://praneetshekhar.github.io/about/</guid>
+      <description>&lt;p&gt;Hi, I am Praneet Shekhar.&lt;br&gt;
+I am from Jamshedpur - The Steel City of India. Also known as Tatanagar, after the Tatas who set up this city. &lt;br&gt;
+I did my schooling from &lt;a href=&#34;http://www.loyolajsr.com&#34;&gt;Loyola School, Jamshedpur&lt;/a&gt; and my engineering in Information Technology from &lt;a href=&#34;http://www.kiit.ac.in&#34;&gt;Kalinga Institute of Industrial Technology, Bhubaneswar&lt;/a&gt;.&lt;br&gt;
+Currently based out of Mumbai, I work for Oracle Financial Services.&lt;br&gt;
+My primary area of focus is data engineering.&lt;/p&gt;
+&lt;p&gt;I am passionate about all things technology, especially the business of it.&lt;br&gt;
+Apart from school curiculum, where we were introduced to programming with LOGO &amp;amp; GW-BASIC in early classes, I started teaching myself coding in 6th grade when I discovered web development through my sister&amp;rsquo;s books who was studying computer engineering at the time.&lt;br&gt;
+I was hooked.&lt;br&gt;
+I spent hours on end tweaking CSS properties and playing with jQuery. I soon taught myself the basics of PHP and built my first website, it was a static music library with an integrated music player.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
