@@ -4,6 +4,8 @@ title = 'OutOfBounds | Praneet Shekhar'
 theme = 'hugo-PaperMod'
 enableEmoji = true
 
+googleAnalytics = 'G-W8WRHLZ949'
+
 [params.analytics.google]
 SiteVerificationTag = 'G-W8WRHLZ949'
 
