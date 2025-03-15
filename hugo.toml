@@ -4,6 +4,9 @@ title = 'OutOfBounds | Praneet Shekhar'
 theme = 'hugo-PaperMod'
 enableEmoji = true
 
+[params.analytics.google]
+SiteVerificationTag = 'G-W8WRHLZ949'
+
 [params.label]
 text = 'OutOfBounds'
 

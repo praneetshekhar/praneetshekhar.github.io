@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>OutOfBounds | Praneet Shekhar</title>
-    <link>http://localhost:1313/</link>
+    <link>https://praneetshekhar.github.io/</link>
     <description>Recent content on OutOfBounds | Praneet Shekhar</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-in</language>
     <lastBuildDate>Sun, 24 Sep 2023 02:27:36 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://praneetshekhar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building This Site</title>
-      <link>http://localhost:1313/posts/building-this-site/</link>
+      <link>https://praneetshekhar.github.io/posts/building-this-site/</link>
       <pubDate>Sun, 24 Sep 2023 02:27:36 +0530</pubDate>
-      <guid>http://localhost:1313/posts/building-this-site/</guid>
+      <guid>https://praneetshekhar.github.io/posts/building-this-site/</guid>
       <description>&lt;p&gt;This is a supposed to be simple site, a simple presence for me on the web.&lt;br&gt;
 I needed a tool that makes things simple.&lt;br&gt;
 While going through the portfolio of few of my seniors, I came across &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
@@ -21,9 +21,9 @@ Hugo seemed to fit the bill perfectly.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TCS IT Wiz 2016</title>
-      <link>http://localhost:1313/posts/tcs-it-wiz/</link>
+      <link>https://praneetshekhar.github.io/posts/tcs-it-wiz/</link>
       <pubDate>Sat, 17 Dec 2016 19:52:10 +0530</pubDate>
-      <guid>http://localhost:1313/posts/tcs-it-wiz/</guid>
+      <guid>https://praneetshekhar.github.io/posts/tcs-it-wiz/</guid>
       <description>&lt;p&gt;The Kolkata edition of TCS IT Wiz 2016 was held on the 31st of August.&lt;br&gt;
 It is a highly anticipated quiz and a marquee event in the quizzing calendar, being the biggest inter-school IT quiz.&lt;br&gt;
 Our school has a rich history in this quiz, with our seniors winning several editions.&lt;br&gt;
@@ -31,9 +31,9 @@ So the pressure was immense, especially coming up against the reigning National 
     </item>
     <item>
       <title>COFAS 2016</title>
-      <link>http://localhost:1313/posts/cofas/</link>
+      <link>https://praneetshekhar.github.io/posts/cofas/</link>
       <pubDate>Thu, 17 Nov 2016 19:52:10 +0530</pubDate>
-      <guid>http://localhost:1313/posts/cofas/</guid>
+      <guid>https://praneetshekhar.github.io/posts/cofas/</guid>
       <description>&lt;p&gt;The 2016 edition of COFAS, the biennial international computer olympiad organised by City Montessori School, Lucknow was held in the month of November.&lt;/p&gt;
 &lt;p&gt;There were teams from several countries participating in a pleathora of competitions.&lt;br&gt;
 Five of us represented Loyola School Jamshedpur in various events.&lt;/p&gt;
@@ -43,9 +43,9 @@ Five of us represented Loyola School Jamshedpur in various events.&lt;/p&gt;
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://praneetshekhar.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://praneetshekhar.github.io/about/</guid>
       <description>&lt;p&gt;Hi, I am Praneet Shekhar.&lt;br&gt;
 I am from Jamshedpur - The Steel City of India. Also known as Tatanagar, after the Tatas who set up this city. &lt;br&gt;
 I did my schooling from &lt;a href=&#34;http://www.loyolajsr.com&#34;&gt;Loyola School, Jamshedpur&lt;/a&gt; and my engineering in Information Technology from &lt;a href=&#34;http://www.kiit.ac.in&#34;&gt;Kalinga Institute of Industrial Technology, Bhubaneswar&lt;/a&gt;.&lt;br&gt;
