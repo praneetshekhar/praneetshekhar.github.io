@@ -175,3 +175,4 @@ i18n/
 resources/
 go.mod
 go.sum
+.DS_Store
