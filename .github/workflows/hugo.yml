@@ -53,18 +53,6 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
 
-      - name: Compile LaTeX resume
-        uses: xu-cheng/latex-action@v3
-        with:
-          root_file: resources/resume.tex
-          # Specify your compiler if pdflatex is not sufficient (e.g., lualatex or xelatex)
-          # compiler: xelatex 
-
-      - name: Move PDF to Hugo static folder
-        run: |
-          mkdir -p static
-          mv resources/resume.pdf static/praneet-shekhar_resume.pdf
-
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
